@@ -1,0 +1,34 @@
+128x128x3
+numpy 
+128x128x
+
+
+PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby
+https://www.youtube.com/watch?v=IHq1t7NxS8k
+https://www.youtube.com/watch?v=oLvmLJkmXuc
+
+UNET
+https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+
+
+
+
+conda install -c conda-forge imgaug
+conda install -c conda-forge albumentations
+
+Submissions: 
+1. Baseline
+Date: 26.04.22, 21:35
+Score: 0.62415439571059
+Precision: 0.6144641145627784
+Recall: 0.6341552112880937
+
+2. with augmentation
+
+
+3. with pretrained (resnet, vgg16)
+
+
+4. with CV-Kfold
+
+5. Try dynamic unet
